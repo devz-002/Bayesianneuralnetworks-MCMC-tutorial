@@ -52,6 +52,8 @@ If you do not wish to use the Docker image, the required packages can installed 
 - scikit-learn
 - xarray
 - arviz
+- jax
+- numpyro
 
 ## Acknowledgements
 
